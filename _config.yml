@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://davidiamyou.github.io
+title: Weinan Qiu
+tagline: A log of my dev life
+description: Weinan Qiu's personal site
+paginate: 5
